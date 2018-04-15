@@ -14,4 +14,4 @@ Celem projektu jest:
 
 * Jarosław Żeliński ([IT-Consulting](http://it-consulting.pl/)) - analiza biznesowa i systemowa,
 * Karol Breguła (członek Stowarzyszenia) - koordynator, prace programistyczne,
-* Agnieszka Zdanowicz - zgłaszajacy zapotrzebowanie.
+* Agnieszka Zdanowicz (dyrektorka zarządzająca Stowarzyszenia) - zgłaszajaca zapotrzebowanie.
